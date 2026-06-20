@@ -1,0 +1,10 @@
+User-agent: *
+
+Allow: /
+
+Disallow: /admin/login.php
+Disallow: /admin/logout.php
+Disallow: /admin/db.php
+Disallow: /admin/admin.php
+
+Sitemap: https://elifbetulbayram.com/sitemap.xml
