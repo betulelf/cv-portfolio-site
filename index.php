@@ -356,7 +356,7 @@ $bloglar = fetchAllSafe($db, "SELECT * FROM blog_yazilari WHERE durum = 'yayinda
       }
     });
   </script>
-  <a href="https://wa.me/905064275522?text=Merhaba%20Elif%20Hanım,%20web%20sitesi%20hizmetleriniz%20hakkında%20bilgi%20almak%20istiyorum."
+  <a href="https://wa.me/905xxxxxxxxx?text=Merhaba%20Elif%20Hanım,%20web%20sitesi%20hizmetleriniz%20hakkında%20bilgi%20almak%20istiyorum."
     class="whatsapp-float"
     target="_blank"
     rel="noopener noreferrer">
